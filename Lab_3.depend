@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1587633224 source:d:\programs language\labs sem 2\var0_lab_3\graphicelement.cpp
+	"graphicElement.h"
+
+1587633682 source:d:\programs language\labs sem 2\var0_lab_3\main.cpp
+	<iostream>
+	"graphicElement.h"
+	"window.h"
+	"button.h"
+	"buttonWithImage.h"
+	"inputField.h"
+
+1587633224 d:\programs language\labs sem 2\var0_lab_3\graphicelement.h
+	<string>
+
+1587633258 d:\programs language\labs sem 2\var0_lab_3\window.h
+	"graphicElement.h"
+	<string>
+
+1587633258 source:d:\programs language\labs sem 2\var0_lab_3\window.cpp
+	"window.h"
+	<iostream>
+
+1587633134 source:d:\programs language\labs sem 2\var0_lab_3\button.cpp
+	"button.h"
+	<iostream>
+
+1587633134 d:\programs language\labs sem 2\var0_lab_3\button.h
+	"graphicElement.h"
+	<string>
+
+1587633176 source:d:\programs language\labs sem 2\var0_lab_3\buttonwithimage.cpp
+	"buttonWithImage.h"
+	<iostream>
+
+1587633176 d:\programs language\labs sem 2\var0_lab_3\buttonwithimage.h
+	"Button.h"
+	<string>
+
+1587633244 source:d:\programs language\labs sem 2\var0_lab_3\inputfield.cpp
+	"inputField.h"
+	<iostream>
+
+1587633244 d:\programs language\labs sem 2\var0_lab_3\inputfield.h
+	"graphicElement.h"
+	<string>
+
+1591994146 source:c:\users\zand2\onedrive\Рабочий стол\lab 3\button.cpp
+	"button.h"
+	<iostream>
+
+1591994146 c:\users\zand2\onedrive\Рабочий стол\lab 3\button.h
+	"graphicElement.h"
+	<string>
+
+1591993684 c:\users\zand2\onedrive\Рабочий стол\lab 3\graphicelement.h
+	<string>
+
+1591994146 source:c:\users\zand2\onedrive\Рабочий стол\lab 3\buttonwithimage.cpp
+	"buttonWithImage.h"
+	<iostream>
+
+1591994146 c:\users\zand2\onedrive\Рабочий стол\lab 3\buttonwithimage.h
+	"Button.h"
+	<string>
+
+1591993640 source:c:\users\zand2\onedrive\Рабочий стол\lab 3\graphicelement.cpp
+	"graphicElement.h"
+
+1591993954 source:c:\users\zand2\onedrive\Рабочий стол\lab 3\inputfield.cpp
+	"inputField.h"
+	<iostream>
+
+1591993893 c:\users\zand2\onedrive\Рабочий стол\lab 3\inputfield.h
+	"graphicElement.h"
+	<string>
+
+1591993977 source:c:\users\zand2\onedrive\Рабочий стол\lab 3\main.cpp
+	<iostream>
+	"graphicElement.h"
+	"window.h"
+	"button.h"
+	"buttonWithImage.h"
+	"inputField.h"
+
+1591994146 c:\users\zand2\onedrive\Рабочий стол\lab 3\window.h
+	"graphicElement.h"
+	<string>
+
+1591993874 source:c:\users\zand2\onedrive\Рабочий стол\lab 3\window.cpp
+	"window.h"
+	<iostream>
+
